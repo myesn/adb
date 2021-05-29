@@ -1,0 +1,12 @@
+C:\dev\test\adb\ADBHelper\ADBHelper\bin\Debug\netcoreapp3.1\ADBHelper.exe
+C:\dev\test\adb\ADBHelper\ADBHelper\bin\Debug\netcoreapp3.1\ADBHelper.deps.json
+C:\dev\test\adb\ADBHelper\ADBHelper\bin\Debug\netcoreapp3.1\ADBHelper.runtimeconfig.json
+C:\dev\test\adb\ADBHelper\ADBHelper\bin\Debug\netcoreapp3.1\ADBHelper.runtimeconfig.dev.json
+C:\dev\test\adb\ADBHelper\ADBHelper\bin\Debug\netcoreapp3.1\ADBHelper.dll
+C:\dev\test\adb\ADBHelper\ADBHelper\bin\Debug\netcoreapp3.1\ADBHelper.pdb
+C:\dev\test\adb\ADBHelper\ADBHelper\obj\Debug\netcoreapp3.1\ADBHelper.AssemblyInfoInputs.cache
+C:\dev\test\adb\ADBHelper\ADBHelper\obj\Debug\netcoreapp3.1\ADBHelper.AssemblyInfo.cs
+C:\dev\test\adb\ADBHelper\ADBHelper\obj\Debug\netcoreapp3.1\ADBHelper.dll
+C:\dev\test\adb\ADBHelper\ADBHelper\obj\Debug\netcoreapp3.1\ADBHelper.pdb
+C:\dev\test\adb\ADBHelper\ADBHelper\obj\Debug\netcoreapp3.1\ADBHelper.genruntimeconfig.cache
+C:\dev\test\adb\ADBHelper\ADBHelper\obj\Debug\netcoreapp3.1\ADBHelper.csproj.CoreCompileInputs.cache

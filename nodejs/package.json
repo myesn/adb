@@ -1,0 +1,11 @@
+{
+  "name": "adb",
+  "version": "0.0.1",
+  "description": "adb helper",
+  "main": "index.js",
+  "author": "myesn",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^4.0.3"
+  }
+}
